@@ -1,4 +1,5 @@
 Stop-Process -Name "Spotify" -Force
 
-#you may need to change this, but this should be the default location
-C:\Users\trash\AppData\Roaming\Spotify\Spotify.exe
+#change USER to your user
+#the location should be default
+C:\Users\USER\AppData\Roaming\Spotify\Spotify.exe
